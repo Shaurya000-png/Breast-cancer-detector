@@ -109,3 +109,4 @@ This will create `Project_Report.pdf` in the root directory.
 
 | Date & Time | Activity Details |
 | --- | --- |
+| 2026-Log-Entry-1 | Add UI/UX considerations |
