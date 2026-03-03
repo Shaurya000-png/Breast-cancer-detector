@@ -119,3 +119,4 @@ This will create `Project_Report.pdf` in the root directory.
 | 2026-Log-Entry-8 | Update model evaluation metrics |
 | 2026-Log-Entry-9 | Improve README clarity in section 9 |
 | 2026-Log-Entry-10 | Add inline comments to complex logic |
+| 2026-Log-Entry-11 | Document latest bug fixes |
