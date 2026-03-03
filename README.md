@@ -117,3 +117,4 @@ This will create `Project_Report.pdf` in the root directory.
 | 2026-Log-Entry-6 | Refactor API structure and document changes |
 | 2026-Log-Entry-7 | Refactor API structure and document changes |
 | 2026-Log-Entry-8 | Update model evaluation metrics |
+| 2026-Log-Entry-9 | Improve README clarity in section 9 |
