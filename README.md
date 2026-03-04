@@ -123,3 +123,4 @@ This will create `Project_Report.pdf` in the root directory.
 | 2026-Log-Entry-12 | Update model evaluation metrics |
 | 2026-Log-Entry-13 | Add UI/UX considerations |
 | 2026-Log-Entry-14 | Document performance optimization steps |
+| 2026-Log-Entry-15 | Clarify environment variable setup |
