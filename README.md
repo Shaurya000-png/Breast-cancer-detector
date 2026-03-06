@@ -128,3 +128,4 @@ This will create `Project_Report.pdf` in the root directory.
 | 2026-Log-Entry-17 | Document latest bug fixes |
 | 2026-Log-Entry-18 | Refactor API structure and document changes |
 | 2026-Log-Entry-19 | Improve README clarity in section 19 |
+| 2026-Log-Entry-20 | Add testing guidelines |
