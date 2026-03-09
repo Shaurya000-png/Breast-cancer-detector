@@ -133,3 +133,4 @@ This will create `Project_Report.pdf` in the root directory.
 | 2026-Log-Entry-22 | Improve README clarity in section 22 |
 | 2026-Log-Entry-23 | Add notes on CI/CD pipeline |
 | 2026-Log-Entry-24 | Fix typo in API endpoint documentation |
+| 2026-Log-Entry-25 | Clarify environment variable setup |
