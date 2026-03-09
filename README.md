@@ -131,3 +131,4 @@ This will create `Project_Report.pdf` in the root directory.
 | 2026-Log-Entry-20 | Add testing guidelines |
 | 2026-Log-Entry-21 | Improve README clarity in section 21 |
 | 2026-Log-Entry-22 | Improve README clarity in section 22 |
+| 2026-Log-Entry-23 | Add notes on CI/CD pipeline |
