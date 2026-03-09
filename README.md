@@ -135,3 +135,4 @@ This will create `Project_Report.pdf` in the root directory.
 | 2026-Log-Entry-24 | Fix typo in API endpoint documentation |
 | 2026-Log-Entry-25 | Clarify environment variable setup |
 | 2026-Log-Entry-26 | Add inline comments to complex logic |
+| 2026-Log-Entry-27 | Add testing guidelines |
