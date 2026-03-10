@@ -138,3 +138,4 @@ This will create `Project_Report.pdf` in the root directory.
 | 2026-Log-Entry-27 | Add testing guidelines |
 | 2026-Log-Entry-28 | Document edge cases handling |
 | 2026-Log-Entry-29 | Add UI/UX considerations |
+| 2026-Log-Entry-30 | Document deployment procedures |
