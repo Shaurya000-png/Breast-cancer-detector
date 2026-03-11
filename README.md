@@ -146,3 +146,4 @@ This will create `Project_Report.pdf` in the root directory.
 | 2026-Log-Entry-35 | Document latest bug fixes |
 | 2026-Log-Entry-36 | Add examples for feature usage |
 | 2026-Log-Entry-37 | Document edge cases handling |
+| 2026-Log-Entry-38 | Update model evaluation metrics |
