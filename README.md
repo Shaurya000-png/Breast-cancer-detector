@@ -143,3 +143,4 @@ This will create `Project_Report.pdf` in the root directory.
 | 2026-Log-Entry-32 | Improve code style guide notes |
 | 2026-Log-Entry-33 | Document deployment procedures |
 | 2026-Log-Entry-34 | Add testing guidelines |
+| 2026-Log-Entry-35 | Document latest bug fixes |
