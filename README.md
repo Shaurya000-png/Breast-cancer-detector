@@ -151,3 +151,4 @@ This will create `Project_Report.pdf` in the root directory.
 | 2026-Log-Entry-40 | Fix typo in API endpoint documentation |
 | 2026-Log-Entry-41 | Expand troubleshooting section |
 | 2026-Log-Entry-42 | Update model evaluation metrics |
+| 2026-Log-Entry-43 | Refine project architecture diagram notes |
