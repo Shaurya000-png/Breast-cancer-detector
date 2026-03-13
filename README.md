@@ -159,3 +159,4 @@ This will create `Project_Report.pdf` in the root directory.
 | 2026-Log-Entry-48 | Document latest bug fixes |
 | 2026-Log-Entry-49 | Update dependencies table |
 | 2026-Log-Entry-50 | Document deployment procedures |
+| 2026-Log-Entry-51 | Update model evaluation metrics |
