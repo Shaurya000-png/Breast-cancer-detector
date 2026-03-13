@@ -153,3 +153,4 @@ This will create `Project_Report.pdf` in the root directory.
 | 2026-Log-Entry-42 | Update model evaluation metrics |
 | 2026-Log-Entry-43 | Refine project architecture diagram notes |
 | 2026-Log-Entry-44 | Refine project architecture diagram notes |
+| 2026-Log-Entry-45 | Expand troubleshooting section |
