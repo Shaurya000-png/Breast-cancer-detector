@@ -169,3 +169,4 @@ This will create `Project_Report.pdf` in the root directory.
 | 2026-Log-Entry-58 | Document latest bug fixes |
 | 2026-Log-Entry-59 | Add notes on CI/CD pipeline |
 | 2026-Log-Entry-60 | Clarify environment variable setup |
+| 2026-Log-Entry-61 | Document performance optimization steps |
