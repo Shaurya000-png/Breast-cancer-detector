@@ -172,3 +172,4 @@ This will create `Project_Report.pdf` in the root directory.
 | 2026-Log-Entry-61 | Document performance optimization steps |
 | 2026-Log-Entry-62 | Document performance optimization steps |
 | 2026-Log-Entry-63 | Document edge cases handling |
+| 2026-Log-Entry-64 | Add testing guidelines |
