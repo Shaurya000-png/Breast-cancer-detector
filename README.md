@@ -181,3 +181,4 @@ This will create `Project_Report.pdf` in the root directory.
 | 2026-Log-Entry-70 | Document latest bug fixes |
 | 2026-Log-Entry-71 | Add testing guidelines |
 | 2026-Log-Entry-72 | Expand troubleshooting section |
+| 2026-Log-Entry-73 | Add examples for feature usage |
