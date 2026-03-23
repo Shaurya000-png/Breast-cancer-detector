@@ -184,3 +184,4 @@ This will create `Project_Report.pdf` in the root directory.
 | 2026-Log-Entry-73 | Add examples for feature usage |
 | 2026-Log-Entry-74 | Document deployment procedures |
 | 2026-Log-Entry-75 | Update dependencies table |
+| 2026-Log-Entry-76 | Document latest bug fixes |
