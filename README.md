@@ -177,3 +177,4 @@ This will create `Project_Report.pdf` in the root directory.
 | 2026-Log-Entry-66 | Add inline comments to complex logic |
 | 2026-Log-Entry-67 | Clarify environment variable setup |
 | 2026-Log-Entry-68 | Update dependencies table |
+| 2026-Log-Entry-69 | Add examples for feature usage |
