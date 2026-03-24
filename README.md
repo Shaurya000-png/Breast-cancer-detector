@@ -190,3 +190,4 @@ This will create `Project_Report.pdf` in the root directory.
 | 2026-Log-Entry-79 | Update dependencies table |
 | 2026-Log-Entry-80 | Improve code style guide notes |
 | 2026-Log-Entry-81 | Refactor API structure and document changes |
+| 2026-Log-Entry-82 | Expand troubleshooting section |
