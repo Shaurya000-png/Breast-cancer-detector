@@ -198,3 +198,4 @@ This will create `Project_Report.pdf` in the root directory.
 | 2026-Log-Entry-87 | Add testing guidelines |
 | 2026-Log-Entry-88 | Update documentation formatting |
 | 2026-Log-Entry-89 | Add examples for feature usage |
+| 2026-Log-Entry-90 | Document performance optimization steps |
