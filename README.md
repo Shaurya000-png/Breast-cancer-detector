@@ -195,3 +195,4 @@ This will create `Project_Report.pdf` in the root directory.
 | 2026-Log-Entry-84 | Clarify environment variable setup |
 | 2026-Log-Entry-85 | Refactor project structure notes |
 | 2026-Log-Entry-86 | Document latest bug fixes |
+| 2026-Log-Entry-87 | Add testing guidelines |
