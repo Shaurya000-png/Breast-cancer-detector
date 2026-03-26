@@ -204,3 +204,4 @@ This will create `Project_Report.pdf` in the root directory.
 | 2026-Log-Entry-93 | Update documentation formatting |
 | 2026-Log-Entry-94 | Document performance optimization steps |
 | 2026-Log-Entry-95 | Add examples for feature usage |
+| 2026-Log-Entry-96 | Improve code style guide notes |
