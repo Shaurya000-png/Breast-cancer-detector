@@ -206,3 +206,4 @@ This will create `Project_Report.pdf` in the root directory.
 | 2026-Log-Entry-95 | Add examples for feature usage |
 | 2026-Log-Entry-96 | Improve code style guide notes |
 | 2026-Log-Entry-97 | Update documentation formatting |
+| 2026-Log-Entry-98 | Document latest bug fixes |
