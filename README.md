@@ -231,3 +231,4 @@ This will create `Project_Report.pdf` in the root directory.
 | 2026-Log-Entry-120 | Refactor project structure notes |
 | 2026-Log-Entry-121 | Improve code style guide notes |
 | 2026-Log-Entry-122 | Fix typo in API endpoint documentation |
+| 2026-Log-Entry-123 | Add examples for feature usage |
