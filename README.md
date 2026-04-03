@@ -236,3 +236,4 @@ This will create `Project_Report.pdf` in the root directory.
 | 2026-Log-Entry-125 | Refactor project structure notes |
 | 2026-Log-Entry-126 | Add examples for feature usage |
 | 2026-Log-Entry-127 | Expand troubleshooting section |
+| 2026-Log-Entry-128 | Document deployment procedures |
