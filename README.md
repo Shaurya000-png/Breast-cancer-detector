@@ -249,3 +249,4 @@ This will create `Project_Report.pdf` in the root directory.
 | 2026-Log-Entry-138 | Add UI/UX considerations |
 | 2026-Log-Entry-139 | Expand troubleshooting section |
 | 2026-Log-Entry-140 | Add UI/UX considerations |
+| 2026-Log-Entry-141 | Refine project architecture diagram notes |
