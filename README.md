@@ -258,3 +258,4 @@ This will create `Project_Report.pdf` in the root directory.
 | 2026-Log-Entry-147 | Update dependencies table |
 | 2026-Log-Entry-148 | Refine project architecture diagram notes |
 | 2026-Log-Entry-149 | Refactor API structure and document changes |
+| 2026-Log-Entry-150 | Document latest bug fixes |
