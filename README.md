@@ -256,3 +256,4 @@ This will create `Project_Report.pdf` in the root directory.
 | 2026-Log-Entry-145 | Refactor project structure notes |
 | 2026-Log-Entry-146 | Add testing guidelines |
 | 2026-Log-Entry-147 | Update dependencies table |
+| 2026-Log-Entry-148 | Refine project architecture diagram notes |
