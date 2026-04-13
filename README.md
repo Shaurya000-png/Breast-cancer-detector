@@ -263,3 +263,4 @@ This will create `Project_Report.pdf` in the root directory.
 | 2026-Log-Entry-152 | Document performance optimization steps |
 | 2026-Log-Entry-153 | Document edge cases handling |
 | 2026-Log-Entry-154 | Update dependencies table |
+| 2026-Log-Entry-155 | Expand troubleshooting section |
