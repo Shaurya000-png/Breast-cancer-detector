@@ -269,3 +269,4 @@ This will create `Project_Report.pdf` in the root directory.
 | 2026-Log-Entry-158 | Update model evaluation metrics |
 | 2026-Log-Entry-159 | Document edge cases handling |
 | 2026-Log-Entry-160 | Refactor project structure notes |
+| 2026-Log-Entry-161 | Refactor API structure and document changes |
