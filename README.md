@@ -265,3 +265,4 @@ This will create `Project_Report.pdf` in the root directory.
 | 2026-Log-Entry-154 | Update dependencies table |
 | 2026-Log-Entry-155 | Expand troubleshooting section |
 | 2026-Log-Entry-156 | Add testing guidelines |
+| 2026-Log-Entry-157 | Add examples for feature usage |
