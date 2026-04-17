@@ -274,3 +274,4 @@ This will create `Project_Report.pdf` in the root directory.
 | 2026-Log-Entry-163 | Fix typo in API endpoint documentation |
 | 2026-Log-Entry-164 | Document latest bug fixes |
 | 2026-Log-Entry-165 | Add notes on CI/CD pipeline |
+| 2026-Log-Entry-166 | Document edge cases handling |
