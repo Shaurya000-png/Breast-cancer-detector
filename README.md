@@ -279,3 +279,4 @@ This will create `Project_Report.pdf` in the root directory.
 | 2026-Log-Entry-168 | Refactor API structure and document changes |
 | 2026-Log-Entry-169 | Refactor project structure notes |
 | 2026-Log-Entry-170 | Add testing guidelines |
+| 2026-Log-Entry-171 | Improve code style guide notes |
