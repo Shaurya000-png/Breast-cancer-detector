@@ -282,3 +282,4 @@ This will create `Project_Report.pdf` in the root directory.
 | 2026-Log-Entry-171 | Improve code style guide notes |
 | 2026-Log-Entry-172 | Update dependencies table |
 | 2026-Log-Entry-173 | Expand troubleshooting section |
+| 2026-Log-Entry-174 | Document latest bug fixes |
