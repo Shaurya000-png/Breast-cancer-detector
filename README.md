@@ -288,3 +288,4 @@ This will create `Project_Report.pdf` in the root directory.
 | 2026-Log-Entry-177 | Fix typo in API endpoint documentation |
 | 2026-Log-Entry-178 | Add testing guidelines |
 | 2026-Log-Entry-179 | Add UI/UX considerations |
+| 2026-Log-Entry-180 | Document performance optimization steps |
