@@ -297,3 +297,4 @@ This will create `Project_Report.pdf` in the root directory.
 | 2026-Log-Entry-186 | Document latest bug fixes |
 | 2026-Log-Entry-187 | Fix typo in API endpoint documentation |
 | 2026-Log-Entry-188 | Update model evaluation metrics |
+| 2026-Log-Entry-189 | Update documentation formatting |
