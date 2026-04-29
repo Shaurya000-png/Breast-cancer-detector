@@ -304,3 +304,4 @@ This will create `Project_Report.pdf` in the root directory.
 | 2026-Log-Entry-193 | Improve code style guide notes |
 | 2026-Log-Entry-194 | Expand troubleshooting section |
 | 2026-Log-Entry-195 | Add notes on CI/CD pipeline |
+| 2026-Log-Entry-196 | Expand troubleshooting section |
