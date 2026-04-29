@@ -306,3 +306,4 @@ This will create `Project_Report.pdf` in the root directory.
 | 2026-Log-Entry-195 | Add notes on CI/CD pipeline |
 | 2026-Log-Entry-196 | Expand troubleshooting section |
 | 2026-Log-Entry-197 | Refactor project structure notes |
+| 2026-Log-Entry-198 | Improve README clarity in section 198 |
