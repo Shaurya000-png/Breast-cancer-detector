@@ -300,3 +300,4 @@ This will create `Project_Report.pdf` in the root directory.
 | 2026-Log-Entry-189 | Update documentation formatting |
 | 2026-Log-Entry-190 | Add UI/UX considerations |
 | 2026-Log-Entry-191 | Update dependencies table |
+| 2026-Log-Entry-192 | Add UI/UX considerations |
