@@ -311,3 +311,4 @@ This will create `Project_Report.pdf` in the root directory.
 | 2026-Log-Entry-200 | Document deployment procedures |
 | 2026-Log-Entry-201 | Improve README clarity in section 201 |
 | 2026-Log-Entry-202 | Refactor project structure notes |
+| 2026-Log-Entry-203 | Update model evaluation metrics |
