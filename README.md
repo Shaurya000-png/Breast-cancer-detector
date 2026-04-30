@@ -313,3 +313,4 @@ This will create `Project_Report.pdf` in the root directory.
 | 2026-Log-Entry-202 | Refactor project structure notes |
 | 2026-Log-Entry-203 | Update model evaluation metrics |
 | 2026-Log-Entry-204 | Clarify environment variable setup |
+| 2026-Log-Entry-205 | Clarify environment variable setup |
