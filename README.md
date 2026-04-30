@@ -308,3 +308,4 @@ This will create `Project_Report.pdf` in the root directory.
 | 2026-Log-Entry-197 | Refactor project structure notes |
 | 2026-Log-Entry-198 | Improve README clarity in section 198 |
 | 2026-Log-Entry-199 | Document edge cases handling |
+| 2026-Log-Entry-200 | Document deployment procedures |
