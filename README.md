@@ -24,7 +24,7 @@ This project bridges the gap between Data Science and Software Engineering by wr
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 *   **Machine Learning**: Python, Scikit-Learn, Pandas, NumPy
 *   **Backend**: Flask (Python)
@@ -34,7 +34,7 @@ This project bridges the gap between Data Science and Software Engineering by wr
 
 ---
 
-## ⚡ How to Run
+##  How to Run
 
 ### Option 1: Local Python Environment
 1.  **Clone the repository**:
@@ -68,7 +68,7 @@ This project bridges the gap between Data Science and Software Engineering by wr
 
 ---
 
-## 📊 Model Performance
+##  Model Performance
 
 | Model | Accuracy | F1-Score | ROC-AUC |
 |-------|----------|----------|---------|
@@ -79,7 +79,7 @@ This project bridges the gap between Data Science and Software Engineering by wr
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ├── artifacts/             # Saved Models (.joblib) & Scalers
